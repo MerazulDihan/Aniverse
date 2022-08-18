@@ -1,4 +1,4 @@
-# anime_portal
+# Aniverse
 
 A new Flutter project.
 
